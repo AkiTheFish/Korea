@@ -15,9 +15,10 @@ h2 {
     text-shadow: 5px 5px black;
 }
 h3 {
-    color: rgb(0, 83, 139);
+    color: rgb(185, 227, 255);
     font-size: 50px;
     font-family: monospace;
+    margin-bottom: 0;
 }
 .titlePage {
     border: 30px solid rgb(116, 160, 255);
@@ -43,6 +44,7 @@ h3 {
 }
 .subtitle {
     font-size: 25px;
-    color: rgb(0, 83, 139);
+    color: rgb(202, 234, 255);
     font-family: monospace;
+    margin-top: 0;
 }
